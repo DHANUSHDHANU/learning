@@ -1,0 +1,37 @@
+@CHARSET "ISO-8859-1";
+body{
+	
+}
+
+
+.textcolor{
+	align:centre;
+	 color:white;
+}
+
+input[type=submit]{
+	
+	
+}
+.formcolor{
+	background-color: #11b5f2;
+	 height:300px;
+	 width:500px;
+    margin:200px 350px;
+    padding-top:30px;
+    padding-bottom:20px;
+}
+form{
+	width:500px;
+	height:250px;
+	margin:100px;
+	border-radius:3em;
+	
+}
+p{
+	align
+}
+#getin
+{
+	align:left;
+}
